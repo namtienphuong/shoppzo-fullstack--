@@ -15,4 +15,7 @@ Create Provider.jsx
 Create Item.jsx
 install npx shadcn@latest add dialog
 create ProductDetail.jsx
+create PopularProducts.jsx
+create Banner.jsx
+create Testimonial.jsx
 

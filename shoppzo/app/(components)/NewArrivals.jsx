@@ -26,7 +26,7 @@ function NewArrivals() {
                 title1={"New"}
                 title2={"Arrivals"}
                 titleStyles={"pb-14"}
-                paraStyles={"!bl ock"}
+                paraStyles={"!block"}
             />
             {/* CONTAINER */}
             <Carousel className={"w-full"}>
