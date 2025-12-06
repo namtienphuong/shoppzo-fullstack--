@@ -18,4 +18,11 @@ create ProductDetail.jsx
 create PopularProducts.jsx
 create Banner.jsx
 create Testimonial.jsx
+create Footer.jsx
+update Provider.jsx
+update Hero.jsx
+create folder app/(routes)
+create folder (routes)/collection
+create collection/page.jsx
+
 
