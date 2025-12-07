@@ -35,6 +35,7 @@ function Item({ product }) {
                     width={555}
                     className='transition-all duration-300'
                     unoptimized={true}
+                    alt=''
                 />
             </div>
             {/* INFO */}

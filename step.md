@@ -24,5 +24,5 @@ update Hero.jsx
 create folder app/(routes)
 create folder (routes)/collection
 create collection/page.jsx
-
-
+edit file Item.jsx (thêm alt vào thẻ Image-cái này là khắc phục lỗi)
+setup npx create-strapi-app@latest shoppzo-admin
