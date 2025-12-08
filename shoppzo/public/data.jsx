@@ -2,7 +2,7 @@ export const categories = [
   { id: 1, name: "Headphones" },
   { id: 2, name: "Cameras" },
   { id: 3, name: "Mobiles" },
-  { id: 4, name: "Mouse" },
+  { id: 4, name: "Mice" },
   { id: 5, name: "Speakers" },
   { id: 6, name: "Watches" },
 ];

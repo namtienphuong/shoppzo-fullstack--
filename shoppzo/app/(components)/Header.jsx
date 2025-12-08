@@ -11,10 +11,11 @@ import {
 }
     from '@/components/ui/dropdown-menu';
 import { ChevronDownIcon, Search, User } from 'lucide-react';
-import { categories } from '@/public/data';
 import { Button } from '@/components/ui/button';
+import { useAppContext } from "../(context)/AppContext";
 
 function Header() {
+    const { categories } = useAppContext()
     const [selectedCategory, setselectedCategory] = useState("")
 
     return (

@@ -26,3 +26,14 @@ create folder (routes)/collection
 create collection/page.jsx
 edit file Item.jsx (thêm alt vào thẻ Image-cái này là khắc phục lỗi)
 setup npx create-strapi-app@latest shoppzo-admin
+
+08.12.2025
+Login strapi
+create Category with text field "name" and save
+Rename "Mouse" = "Mice" in file data.jsx
+Create entry all products
+Cấp quyền cho Public trong Roles (users and Permission plugin) check Find and FindOne
+Setup Axios: npm i axios in npm i axios in shoppzo admin
+Setup Axios: npm i axios in npm i axios in shoppzo
+In folder Shoppzo, create file .env.local
+
